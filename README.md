@@ -7,12 +7,8 @@
   Ingeniería Eléctrica & Ciencias de la Computación · Robótica y Visión Computacional
 </p>
 
-<p align="center">
-  Soy Ingeniero Civil Eléctrico con concentración en Ciencias de la Computación 🇨🇱.<br>
-  Me apasiona la <strong>robótica</strong>, los <strong>sistemas de percepción</strong> y la <strong>visión artificial</strong>,<br>
-  y disfruto especialmente combinarlos con <strong>Deep Reinforcement Learning</strong> para crear sistemas capaces de percibir, decidir y actuar en el mundo real.<br>
-  Soy muy curioso y me gusta aprender constantemente nuevas tecnologías, herramientas y lenguajes, dentro y fuera de mi área.<br>
-  Actualmente en desarrollo de tesis sobre control de un brazo robótico con visión artificial usando Deep RL y Next-Best-View.
+<p align="justify">
+Soy Ingeniero Civil Eléctrico con concentración en Ciencias de la Computación 🇨🇱. Me apasiona la robótica, los sistemas de percepción y la visión artificial, y disfruto especialmente combinarlos con Deep Reinforcement Learning para crear sistemas capaces de percibir, decidir y actuar en el mundo real. Soy muy curioso y me gusta aprender constantemente nuevas tecnologías, herramientas y lenguajes, dentro y fuera de mi área. Actualmente en desarrollo de tesis sobre control de un brazo robótico con visión artificial usando Deep RL y Next-Best-View.
 </p>
 
 <p align="center">
